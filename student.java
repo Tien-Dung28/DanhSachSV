@@ -9,7 +9,7 @@ public class student {
     public student(String ID) {
         this.ID = ID;
     }
-
+/* new áodjasodij */
     public student(String ID, String fullName, int age, float gpa) {
         this.ID = ID;
         this.fullName = fullName;
