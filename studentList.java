@@ -63,10 +63,6 @@ public class studentList  {
                 System.out.println("Not found delete");
         }
 
-        // public boolean deleteElement(student sv) {
-        //     return this.list.remove(sv);
-        // }
-
         public void printList() {
             for (student sinhVien : list) {
                 System.out.println(sinhVien.toString());

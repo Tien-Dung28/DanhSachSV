@@ -7,8 +7,8 @@ public class menu{
         studentList dssv = new studentList();
         int luaChon = 0;
         do {
-            System.out.println("MENU ---------- ");
-            System.out.println(
+            System.out.println("\n========== MENU ========== ");
+            System.out.print(
               "1.   ADD.\n"
             + "2.   Edit with ID\n"
             + "3.   Delete member with ID.\n"
@@ -19,7 +19,8 @@ public class menu{
             + "8.   Sort high to low scores.\n"
             + "9.   Check NULL.\n"
             + "10.  Write file.\n"
-            + "0.   Exit");
+            + "0.   Exit\n"
+            + "Your choose: ");
             luaChon = sc.nextInt();
             sc.nextLine();
             

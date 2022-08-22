@@ -1,0 +1,3 @@
+SinhVien   [ID = 05,	fullName= Dang Loi,	age = 22,	gpa = 3.6]
+SinhVien   [ID = 10,	fullName= Pham Huong,	age = 22,	gpa = 3.5]
+SinhVien   [ID = 28,	fullName= Tien Dung,	age = 22,	gpa = 3.2]
